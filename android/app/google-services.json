@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069711442819",
+    "project_id": "login-signup-app-183d1",
+    "storage_bucket": "login-signup-app-183d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069711442819:android:3c07ea452d5e94870fecb6",
+        "android_client_info": {
+          "package_name": "com.app.second_screens_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069711442819-i5t629gc9dpa215g59707hfc0932nole.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tPWxtI2Q1jypnICc4lZ7bBnuFrglqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069711442819-i5t629gc9dpa215g59707hfc0932nole.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
